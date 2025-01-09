@@ -1,1 +1,1 @@
-# Weathers-Forecasting-Checker
+# weather-app
